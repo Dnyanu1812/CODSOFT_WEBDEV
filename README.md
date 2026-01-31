@@ -8,7 +8,7 @@ DOMAIN: WEB DEVELOPMENT
 
 DURATION: 4 WEEKS
 
-LEVEL 1
+Task 1 :
 Creating a personal portfolio using CSS and HTML is a popular beginner web development
 project.  
 
