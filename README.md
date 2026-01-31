@@ -8,6 +8,10 @@ DOMAIN: WEB DEVELOPMENT
 
 DURATION: 4 WEEKS
 
+LEVEL 1
+Creating a personal portfolio using CSS and HTML is a popular beginner web development
+project.  
+
 
 “Successfully completed all 3 tasks, From learning basics to building real projects —
 Completed my Web Development Internship at CodSoft with valuable experience and confidence
